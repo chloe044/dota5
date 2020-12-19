@@ -1,0 +1,25 @@
+[ {
+  "@class" : "sample.models.Vegetable",
+  "kkal" : 100,
+  "title" : "Огурец",
+  "id" : 1,
+  "isFresh" : true,
+  "description" : "Овощ свежий"
+}, {
+  "@class" : "sample.models.Candy",
+  "kkal" : 200,
+  "title" : "конфета Катюха",
+  "id" : 2,
+  "type" : "Souffle",
+  "description" : "Конфета из суфле"
+}, {
+  "@class" : "sample.models.Bun",
+  "kkal" : 300,
+  "title" : "сладкая булочка с Молоком",
+  "id" : 3,
+  "withRaisins" : true,
+  "withMilk" : true,
+  "withCinnamon" : false,
+  "withPoppy" : false,
+  "description" : "Булочка с изюмом, со сгущенкой"
+} ]
